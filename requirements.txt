@@ -28,6 +28,7 @@ gpytranslate
 MukeshAPI
 search_engine_parser
 googlesearch-python
+youtube-search-python
 spotipy
 telegraph
 speedtest-cli
